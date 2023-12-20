@@ -1,0 +1,14 @@
+import React from "react";
+
+const Login= ()=>{
+
+    return<>
+    <div>
+    <h1>Login</h1>
+     <h5>ניתן להזין שם משתמש וסיסמה</h5>
+
+     
+        </div>
+    </>
+}
+export default Login
